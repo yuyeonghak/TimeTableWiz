@@ -1,4 +1,3 @@
-# TimeTableWiz
 ### 1. Timetable Wizard System 사용환경
 
  Timetable Wizard System을 설치하고 사용하기 위해, 필요한 시스템 사양은 다음과 같다.
